@@ -1,2 +1,1 @@
-# Virtual-Paint
- 
+Developed a virtual paint system using OpenCV in C++. It allow you to draw anything through a webcam in a real-time.
