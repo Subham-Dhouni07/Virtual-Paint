@@ -31,4 +31,4 @@
 *.out
 *.app
 
-color_picker.cpp
+*.cpp
