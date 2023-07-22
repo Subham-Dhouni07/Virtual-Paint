@@ -1,5 +1,0 @@
-﻿  test.cpp
-C:\Users\dhoun\source\repos\Virtual Paint\Virtual Paint\test.cpp(32,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\dhoun\source\repos\Virtual Paint\Virtual Paint\test.cpp(39,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\dhoun\source\repos\Virtual Paint\Virtual Paint\test.cpp(90,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Virtual Paint.vcxproj -> C:\Users\dhoun\source\repos\Virtual Paint\x64\Debug\Virtual Paint.exe
